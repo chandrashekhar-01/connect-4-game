@@ -26,7 +26,6 @@ connect4_game/
 │
 ├── connect4_game.ipynb       # Jupyter notebook containing full code
 ├── README.md                 # Project documentation
-└── requirements.txt          # (Optional) Dependencies list
 ```
 
 ## 🕹️ How to Play
@@ -79,7 +78,7 @@ connect4_game/
 ---
 ## ⚙️ How to Run the Game
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/Connect4-Game.git
 cd Connect4-Game
